@@ -28,7 +28,8 @@ Develop a deep learning model to predict the **(x, y) coordinates** of a single 
 
 ## 📊 Results
 
-- Achieved a Mean Absolute Error (MAE) of ~0.42 on validation data.
+- Achieved a Mean Absolute Error (MAE) of ~0.4283 on validation data.
+- Validation Loss: 0.3365
 - Model accurately predicted the pixel's location with low error.
 
 ---
