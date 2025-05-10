@@ -19,7 +19,7 @@ Develop a deep learning model to predict the **(x, y) coordinates** of a single 
 
 | File | Description |
 |------|-------------|
-| `ML_Assignment_Supervised_Regression.ipynb` | Full training code, graphs, and results |
+| `ML_Assignment_Supervised_Regression_Vinay_Hipparge.ipynb` | Full training code, graphs, and results |
 | `requirements.txt` | Python dependencies to reproduce results |
 | `Graphs-Loss and MAE Curves.png & Prediction vs Ground Truth Visualization.png` | Output visualization of Graphs-Loss and MAE Curves.png & Prediction vs Ground Truth Visualization.png |
 | `README.md` | Project overview and instructions |
