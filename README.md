@@ -26,6 +26,8 @@ Develop a deep learning model to predict the **(x, y) coordinates** of a single 
 
 ---
 
+## Google Colab Link: https://colab.research.google.com/drive/1E0-KXrdcofJJDb5cT9XCjuBEB1oXv--9?usp=sharing
+
 ## 📊 Results
 
 - Achieved a Mean Absolute Error (MAE) of ~0.42 on validation data.
