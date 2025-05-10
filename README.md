@@ -48,4 +48,5 @@ https://colab.research.google.com/drive/1E0-KXrdcofJJDb5cT9XCjuBEB1oXv--9?usp=sh
 Vinay Hipparge
 - AI Engineer at Gigaswar Technologies
 - B.Tech Student – AI & Data Science
+- Linkedin - https://www.linkedin.com/in/vinay-hipparge/
 - 📅 May 2025
