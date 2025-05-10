@@ -50,4 +50,5 @@ Vinay Hipparge
 - AI Engineer at Gigaswar Technologies
 - B.Tech Student – AI & Data Science
 - Linkedin - https://www.linkedin.com/in/vinay-hipparge/
+- Mail ID - vinayhipparge15@gmail.com
 - 📅 May 2025
